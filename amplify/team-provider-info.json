@@ -1,4 +1,25 @@
 {
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-yuiapp-dev-103205-authRole",
+      "UnauthRoleArn": "arn:aws:iam::711556954185:role/amplify-yuiapp-dev-103205-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::711556954185:role/amplify-yuiapp-dev-103205-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-yuiapp-dev-103205-deployment",
+      "UnauthRoleName": "amplify-yuiapp-dev-103205-unauthRole",
+      "StackName": "amplify-yuiapp-dev-103205",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:711556954185:stack/amplify-yuiapp-dev-103205/2a1cb970-df1b-11ed-ab51-0e3a83b37d3b",
+      "AmplifyAppId": "d1f8ezvu89j73t"
+    },
+    "categories": {
+      "auth": {
+        "yuiapp": {}
+      },
+      "storage": {
+        "s3yuiappstorageb047c768": {}
+      }
+    }
+  },
   "staging": {
     "awscloudformation": {
       "AuthRoleName": "amplify-amplifyhomes-staging-40507-authRole",
