@@ -4,14 +4,16 @@
  * Any changes to this file will be overwritten when running amplify pull. *
  **************************************************************************/
 
-export { default as Desktop6 } from "./Desktop6";
-export { default as DesktopCollection } from "./DesktopCollection";
-export { default as Desktop1 } from "./Desktop1";
-export { default as Desktop1Collection } from "./Desktop1Collection";
-export { default as Desktop4 } from "./Desktop4";
-export { default as Desktop3 } from "./Desktop3";
-export { default as Desktop2 } from "./Desktop2";
-export { default as Desktop5 } from "./Desktop5";
+export { default as Passinput } from "./Passinput";
+export { default as Page2 } from "./Page2";
+export { default as Login } from "./Login";
+export { default as Group7 } from "./Group7";
+export { default as Header } from "./Header";
+export { default as Main } from "./Main";
+export { default as Logininput } from "./Logininput";
+export { default as Page1 } from "./Page1";
 export { default as studioTheme } from "./studioTheme";
+export { default as Test1CreateForm } from "./Test1CreateForm";
+export { default as Test1UpdateForm } from "./Test1UpdateForm";
 export { default as HomeCreateForm } from "./HomeCreateForm";
 export { default as HomeUpdateForm } from "./HomeUpdateForm";

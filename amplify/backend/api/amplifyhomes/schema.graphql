@@ -1,3 +1,14 @@
+type Test1 @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  itemName: String
+  itemCode: String
+  qaunty: String
+  detail: String
+  created_at: String
+  userId: String
+  checked: String
+}
+
 type Home @model @auth(rules: [{allow: public}]) {
   id: ID!
   languageofflower: String
